@@ -42,5 +42,5 @@ Having concluded the election audit, it is my recommendation that this code (see
 
  Also, assuming the vote data is public record, the code could also be modified to provide a breakout of each candidates vote perfromance, by county. For example, we could look at how Diana DeGette perfomed in reference to total votes and/or percentage of vote, by county. This could prove useful for candidates, get out the vote operations, or future targeted fundraising for campaigns; as any of these entities would gain a better understanding of where to commit finite resources.
 
- The uses of this code in election auditing can be expanded upon even further, but even in its current state it would prove an invaluable resource for accurate, efficient, and repeatable election auditing movign forward.
+ The uses of this code in election auditing can be expanded upon even further, but even in its current state it would prove an invaluable resource for accurate, efficient, and repeatable election auditing movign forward. 
   
